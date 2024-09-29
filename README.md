@@ -83,6 +83,8 @@ Start the Server:
 node index.js
 Server will start on http://localhost:5000
 
+Pitch Deck: PDF file
+
 Usage
 Register: New users can register and create an account.
 Login: Registered users can log in to access the dashboard.
